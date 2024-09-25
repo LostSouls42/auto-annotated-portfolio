@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: NoChill
 colors: colors-a
-date: '0002-10-15'
+date: '2024-10-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
