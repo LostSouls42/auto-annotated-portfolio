@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: The Body Detor
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
