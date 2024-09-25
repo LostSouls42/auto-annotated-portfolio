@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -163,7 +163,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
+        - name: Lost Featues
           label: Sign me up to recieve updates
           isRequired: false
           width: full
